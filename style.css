@@ -1,0 +1,58 @@
+body {
+	padding: 40px 100px 40px 100px;
+}
+
+span {
+	font-weight: 800;
+}
+
+a {
+	text-decoration: none;
+}
+
+a:hover {
+	text-decoration: underline;
+}
+ 
+.intro {
+	text-align: justify;
+}
+.welcome {
+	text-align: right;
+	font-weight: 800;
+}
+
+
+.firstLine {
+	display: flex;
+	text-align: center;
+}
+
+
+
+img {
+	width: 135px;
+	height: 135px;
+	padding: 10% 5px 10px 5px;
+	flex: 1;
+}
+
+.links {
+	text-align: center;
+	margin-right: 20px;
+	margin-left: 20px;
+}
+
+.imagine {
+	text-align: center;
+}
+
+.imagine span {
+	vertical-align: center;
+
+}
+
+
+.images{
+	flex: 1;
+}
